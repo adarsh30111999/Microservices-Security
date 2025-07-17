@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;in.adarsh.rest&apos; to &apos;04-Greet-API/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;03-Welcome-API&apos;&#x0D;&#x0A;- Destination element: &apos;04-Greet-API/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;03-Welcome-API/src/main/java/in.adarsh.rest&apos;" description="Copy package" destination="=04-Greet-API/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.adarsh.rest" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1749463503047" version="1.0"/>
+</session>

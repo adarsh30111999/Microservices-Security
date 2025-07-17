@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;in.adarsh.rest.WelcomeRestController&apos; to &apos;GreetRestController&apos;&#x0D;&#x0A;- Original project: &apos;04-Greet-API&apos;&#x0D;&#x0A;- Original element: &apos;in.adarsh.rest.WelcomeRestController&apos;&#x0D;&#x0A;- Renamed element: &apos;in.adarsh.rest.GreetRestController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;WelcomeRestController&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.adarsh.rest{WelcomeRestController.java[WelcomeRestController" matchStrategy="1" name="GreetRestController" qualified="false" references="true" similarDeclarations="false" stamp="1749463530310" textual="false" version="1.0"/>
+</session>
